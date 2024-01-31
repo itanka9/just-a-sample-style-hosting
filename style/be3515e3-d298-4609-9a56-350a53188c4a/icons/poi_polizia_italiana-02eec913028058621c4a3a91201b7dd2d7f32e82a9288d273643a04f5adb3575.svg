@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sight/poi_polizia_italiana_7</title>
+    <g id="sight/poi_polizia_italiana_7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(16.000000, 5.000000)" stroke="#202122" stroke-width="5">
+            <path d="M14.5,26 C19.7455833,26 24,22.4173333 24,18 L5,18 C5,22.4173333 9.25441667,26 14.5,26" id="Fill-1"></path>
+            <polygon id="Fill-3" points="5 18 24 18 24 15 5 15"></polygon>
+            <polygon id="Fill-5" points="11.2810667 11 2 11 2 9.42857143 6.4 7.85714286 3.46666667 0 24 2.96528571 24 11"></polygon>
+            <path d="M17.6297368,30 C18.3194599,30 19.0549876,30.0887315 19.8038388,30.2552853 L0.222,50 L0,50 L0,37.6923077 C0,33.4430769 3.48133333,30 7.77777778,30 L7.77777778,30 Z M24.3979539,32.2337322 C26.4677008,33.6271257 28,35.5580287 28,37.6923077 L28,37.6923077 L28,50 L6.777,50 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="Group" transform="translate(16.000000, 5.000000)" fill="#646464">
+            <path d="M14.5,26 C19.7455833,26 24,22.4173333 24,18 L5,18 C5,22.4173333 9.25441667,26 14.5,26" id="Fill-1"></path>
+            <polygon id="Fill-3" points="5 18 24 18 24 15 5 15"></polygon>
+            <polygon id="Fill-5" points="11.2810667 11 2 11 2 9.42857143 6.4 7.85714286 3.46666667 0 24 2.96528571 24 11"></polygon>
+            <path d="M20.056,30 L0.222,50 L0,50 L0,37.6923077 C0,33.4430769 3.48133333,30 7.77777778,30 L7.77777778,30 L20.056,30 Z M25.0029857,31.6237281 C26.8272233,33.0312895 28,35.2260118 28,37.6923077 L28,37.6923077 L28,50 L6.777,50 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

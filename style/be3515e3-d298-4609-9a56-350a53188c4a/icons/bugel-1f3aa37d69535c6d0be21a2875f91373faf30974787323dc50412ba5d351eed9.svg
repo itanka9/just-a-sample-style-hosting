@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>transport/bugel_72</title>
+    <g id="transport/bugel_72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="transport/12/bounding-night" fill="#64828C">
+            <path d="M18,0 L54,0 C63.9411255,0 72,8.0588745 72,18 L72,54 C72,63.9411255 63.9411255,72 54,72 L18,72 C8.0588745,72 0,63.9411255 0,54 L0,18 C0,8.0588745 8.0588745,0 18,0 Z" id="transport/12/bounding"></path>
+        </g>
+        <g id="Group-5" transform="translate(11.000000, 13.000000)" fill="#202122">
+            <polygon id="Stroke-1" points="23 -1.42996726e-13 28 -1.42996726e-13 28 46 23 46"></polygon>
+            <path d="M50,37.9506928 L40.109474,43.1494561 C28.171974,48.2835146 21.8283638,48.2835146 9.89086378,43.1494561 L0,37.9506928 L0,31 L14.2444263,35.3441135 L35.6032852,35.3441135 L50,31 L50,37.9506928 Z" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>transport/chairlift_72</title>
+    <g id="transport/chairlift_72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="transport/12/bounding-night" fill="#64828C">
+            <path d="M18,0 L54,0 C63.9411255,0 72,8.0588745 72,18 L72,54 C72,63.9411255 63.9411255,72 54,72 L18,72 C8.0588745,72 0,63.9411255 0,54 L0,18 C0,8.0588745 8.0588745,0 18,0 Z" id="transport/12/bounding"></path>
+        </g>
+        <rect id="Rectangle" fill="#202122" x="18" y="9" width="37" height="5"></rect>
+        <rect id="Rectangle" fill="#202122" x="34" y="11" width="5" height="25"></rect>
+        <rect id="Rectangle" fill="#202122" x="7" y="53" width="58" height="4"></rect>
+        <path d="M12,48 L60,48 L60,40 C60,38.3431458 58.6568542,37 57,37 L15,37 C13.3431458,37 12,38.3431458 12,40 L12,48 Z M15,32 L57,32 C61.418278,32 65,35.581722 65,40 L65,53 L7,53 L7,40 C7,35.581722 10.581722,32 15,32 Z" id="Rectangle" fill="#202122"></path>
+    </g>
+</svg>

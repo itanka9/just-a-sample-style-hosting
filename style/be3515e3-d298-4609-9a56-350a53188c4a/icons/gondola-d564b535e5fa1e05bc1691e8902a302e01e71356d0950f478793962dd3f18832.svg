@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>transport/gondola_72</title>
+    <g id="transport/gondola_72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="transport/12/bounding-night" fill="#64828C">
+            <path d="M18,0 L54,0 C63.9411255,0 72,8.0588745 72,18 L72,54 C72,63.9411255 63.9411255,72 54,72 L18,72 C8.0588745,72 0,63.9411255 0,54 L0,18 C0,8.0588745 8.0588745,0 18,0 Z" id="transport/12/bounding"></path>
+        </g>
+        <g id="Group" transform="translate(13.000000, 9.000000)" fill="#202122">
+            <path d="M0,18.0234935 L0,36 L5.01242009,36 L5.01242009,22.0689169 L41.0920109,22.0689169 L41.0920109,36 L46,36 L46,18.0234935 C46,18.0234935 40.454125,13 23,13 C5.545875,13 0,18.0234935 0,18.0234935 Z" id="Fill-1"></path>
+            <rect id="Rectangle" x="5" y="0" width="37" height="5"></rect>
+            <rect id="Rectangle" x="20" y="2" width="6" height="35"></rect>
+            <polygon id="Fill-7" points="0 50 46 50 46 34 0 34"></polygon>
+        </g>
+    </g>
+</svg>
